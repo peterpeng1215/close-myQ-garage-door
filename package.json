@@ -1,0 +1,24 @@
+{
+  "name": "close-myq-garage-door",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterpeng1215/close-myQ-garage-door.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterpeng1215/close-myQ-garage-door/issues"
+  },
+  "homepage": "https://github.com/peterpeng1215/close-myQ-garage-door#readme",
+  "dependencies": {
+    "js-yaml": "^4.0.0",
+    "myq-api": "^2.0.4"
+  },
+  "type": "module" 
+}
